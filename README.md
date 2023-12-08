@@ -4,6 +4,10 @@
 
 ｽﾀｯｸﾁｬﾝ-アバターの顔が出る以外は、サーボモーターを動作させる機能しかついていません。
 
+## 動作確認
+
+Core2 AWS, Core2 v1.1　で動作確認済み。
+
 ## 使い方
 
 M5Stack (Core2を想定）に、[Stack-chan_Takao_Base](https://www.switch-science.com/products/8905?variant=42653590913222)
